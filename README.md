@@ -15,8 +15,7 @@ Durante a apresentação, explicamos e ilustramos com exemplos de código os seg
 * **Polimorfismo**
 * **Tratamento de exceções**
 
-💎 Linguagem Sorteada: **Crystal**
-Crystal é uma linguagem de programação compilada, com foco em desempenho, segurança de tipos e legibilidade de código. Embora sua sintaxe lembre Ruby, ela possui tipagem estática e verificação em tempo de compilação, o que oferece uma experiência de desenvolvimento eficiente e robusta.
+💎 Linguagem Sorteada: **Crystal** - uma linguagem de programação compilada, com foco em desempenho, segurança de tipos e legibilidade de código. Embora sua sintaxe lembre Ruby, ela possui tipagem estática e verificação em tempo de compilação, o que oferece uma experiência de desenvolvimento eficiente e robusta.
 
 **Características da POO em Crystal:**
 * Suporte a classes, módulos e herança simples.
@@ -30,6 +29,4 @@ Crystal é uma linguagem de programação compilada, com foco em desempenho, seg
 * Desenvolver a capacidade de adaptar os princípios da POO a diferentes sintaxes e modelos de linguagem.
 
 **Desenvolvido por:**
-Marina Bieger
-Pietro Hoffmann
-- Informática - 63 1
+Marina Bieger, Pietro Hoffmann - Informática - 63 1
